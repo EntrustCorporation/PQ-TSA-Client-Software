@@ -1,0 +1,6 @@
+{
+    "tsa" : {
+        "url" : "http://localhost/rfc3161",
+        "reservedPdfTimeStampSize" : "30000"
+    }
+}

@@ -1,0 +1,16 @@
+target
+.idea
+src/main/.idea
+src/main/out
+src/main/main.iml
+
+#Mend analysis
+whitesource/**
+wss-unified-agent.jar
+wss-unified-agent.config
+
+# Sample PDF files
+sample/**
+
+# Packages
+entrust-pq-tsa-client-*.tar.gz
